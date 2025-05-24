@@ -1,0 +1,101 @@
+[
+  {
+    "eventTitle": "Science Expo 2025",
+    "hostName": "National Science Foundation",
+    "startDate": "2025-06-10",
+    "endDate": "2025-06-10",
+    "category": "Science",
+    "description": "An exhibition showcasing the latest advancements in science and technology.",
+    "totalOrganizers": 10,
+    "totalParticipants": 150,
+    "totalPrograms": 5
+  },
+  {
+    "eventTitle": "International Sports Meet",
+    "hostName": "World Sports Council",
+    "startDate": "2025-07-01",
+    "endDate": "2025-07-03",
+    "category": "Sports",
+    "description": "A 3-day event featuring sports competitions from around the globe.",
+    "totalOrganizers": 20,
+    "totalParticipants": 500,
+    "totalPrograms": 12
+  },
+  {
+    "eventTitle": "Science for Kids Workshop",
+    "hostName": "Bright Minds Academy",
+    "startDate": "2025-09-20",
+    "endDate": "2025-09-20",
+    "category": "Science",
+    "description": "Fun and engaging science experiments for children aged 8-12.",
+    "totalOrganizers": 4,
+    "totalParticipants": 90,
+    "totalPrograms": 5
+  },
+  {
+    "eventTitle": "National Tech Conference",
+    "hostName": "Tech Innovators Guild",
+    "startDate": "2025-07-15",
+    "endDate": "2025-07-16",
+    "category": "Technology",
+    "description": "A national-level conference focusing on emerging technologies and digital transformation.",
+    "totalOrganizers": 8,
+    "totalParticipants": 400,
+    "totalPrograms": 10
+  },
+  {
+    "eventTitle": "High School Debate Championship",
+    "hostName": "Debate Club Association",
+    "startDate": "2025-08-05",
+    "endDate": "2025-08-05",
+    "category": "Debate",
+    "description": "A competition among top high school debate teams on national issues.",
+    "totalOrganizers": 6,
+    "totalParticipants": 100,
+    "totalPrograms": 4
+  },
+  {
+    "eventTitle": "Digital Literacy Bootcamp",
+    "hostName": "Future Tech Foundation",
+    "startDate": "2025-09-01",
+    "endDate": "2025-09-03",
+    "category": "Technology",
+    "description": "Workshops aimed at enhancing digital skills for students and educators.",
+    "totalOrganizers": 7,
+    "totalParticipants": 120,
+    "totalPrograms": 6
+  },
+  {
+    "eventTitle": "Annual Literary Fest",
+    "hostName": "Writers' Collective",
+    "startDate": "2025-10-10",
+    "endDate": "2025-10-12",
+    "category": "Literature",
+    "description": "A celebration of literature featuring authors, poets, and workshops.",
+    "totalOrganizers": 10,
+    "totalParticipants": 300,
+    "totalPrograms": 8
+  },
+  {
+    "eventTitle": "Science Innovation Fair",
+    "hostName": "Young Scientists Club",
+    "startDate": "2025-11-20",
+    "endDate": "2025-11-20",
+    "category": "Science",
+    "description": "Student-led projects and inventions in a fair-style format.",
+    "totalOrganizers": 5,
+    "totalParticipants": 200,
+    "totalPrograms": 5
+  },
+  {
+    "eventTitle": "TechTalks 2025",
+    "hostName": "Digital Future Society",
+    "startDate": "2025-12-05",
+    "endDate": "2025-12-05",
+    "category": "Technology",
+    "description": "A one-day talk series on AI, Web3, and future tech trends.",
+    "totalOrganizers": 4,
+    "totalParticipants": 180,
+    "totalPrograms": 3
+  }
+]
