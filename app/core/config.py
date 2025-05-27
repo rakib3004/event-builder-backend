@@ -22,7 +22,7 @@ class Settings(BaseSettings):
     MINIO_SECURE: bool = os.getenv("MINIO_SECURE", "False").lower() == "true"
 
     # CORS
-    BACKEND_CORS_ORIGINS: List[str] = ["http://localhost:4200"] # Angular dev server
+    BACKEND_CORS_ORIGINS: List[str] = ["http://localhost:7010"] # Angular dev server
 
     class Config:
         case_sensitive = True
